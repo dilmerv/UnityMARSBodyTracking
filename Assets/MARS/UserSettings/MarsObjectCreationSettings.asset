@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdc017bf3bbb29a49b10c52157e788b1, type: 3}
+  m_Name: MarsObjectCreationSettings
+  m_EditorClassIdentifier: 
+  m_ObjectCreationButtonSections:
+  - m_Name: Presets
+    m_Buttons:
+    - {fileID: 11400000, guid: d887c8bb8715f432e81eeec79408a0a4, type: 2}
+    - {fileID: 11400000, guid: 4410117ed331d4ed9be533abcdf62c85, type: 2}
+    - {fileID: 11400000, guid: 6439aa64871fb4e7583bb8193abb5741, type: 2}
+    - {fileID: 11400000, guid: 2fda46e8151c34837a28da19092bc2ec, type: 2}
+    - {fileID: 11400000, guid: 95bfb89a0f06e443ab367c2f898c1876, type: 2}
+    - {fileID: 11400000, guid: 533422889bea84d3cb01deab4b8fdca0, type: 2}
+    - {fileID: 11400000, guid: e699d43e782984845aa0513206112acd, type: 2}
+    m_Expanded: 1
+  - m_Name: Primitives
+    m_Buttons:
+    - {fileID: 11400000, guid: e2c8da86bd1314a14b319df39766c405, type: 2}
+    - {fileID: 11400000, guid: d3402d99253314337be29c86c1e598df, type: 2}
+    - {fileID: 11400000, guid: 2181d1468cd934ba8b8f7547a684b8d6, type: 2}
+    - {fileID: 11400000, guid: 946690f3b9c74440baf2c4033b43b96a, type: 2}
+    m_Expanded: 1
+  - m_Name: Visualizers
+    m_Buttons:
+    - {fileID: 11400000, guid: 880668568b782480b9bc320c60b7c924, type: 2}
+    - {fileID: 11400000, guid: 00c4e6b77d13c4141a45f268953c1c72, type: 2}
+    - {fileID: 11400000, guid: 66a7bbd72421d4ebc8d653709c7cc1eb, type: 2}
+    - {fileID: 11400000, guid: 37099215452eb4563b7b621fe3593942, type: 2}
+    m_Expanded: 1
+  - m_Name: Simulated
+    m_Buttons:
+    - {fileID: 11400000, guid: e21da34b018924d78a914c5ea324294f, type: 2}
+    - {fileID: 11400000, guid: 123e5b49a378447319878bfcb52de71d, type: 2}
+    m_Expanded: 1
