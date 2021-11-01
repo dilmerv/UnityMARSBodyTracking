@@ -4396,7 +4396,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.8999939, y: -187.5}
+  m_AnchoredPosition: {x: -0.9000244, y: -187.5}
   m_SizeDelta: {x: -35.896606, y: 283.41763}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1755752359
@@ -4876,7 +4876,7 @@ MonoBehaviour:
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
-            m_StringArgument: Waving Event is executed
+            m_StringArgument: Waving Full Hand Event is executed
             m_BoolArgument: 0
           m_CallState: 2
   - bodyPose: {fileID: 11400000, guid: 012af786704f3a84aaf3b3fac4b6d4f9, type: 2}
@@ -4891,7 +4891,7 @@ MonoBehaviour:
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
-            m_StringArgument: Waving Cooler Event is executed
+            m_StringArgument: Waving 2 Finger Event is executed
             m_BoolArgument: 0
           m_CallState: 2
   m_BodyPoseDotProductMatchTolerance: 0.707
