@@ -9,9 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7ac09af4ca5c2364db3c3c984c0d439a, type: 3}
-  m_Name: RegenerationWatcher
+  m_Script: {fileID: 11500000, guid: 0067c7d20aaafce46a74c78d2dd8d9ae, type: 3}
+  m_Name: CompanionResourceSync
   m_EditorClassIdentifier: 
-  m_PreviousMarsPackageVersion: 
-  m_DisableDeleteGenerated: 0
-  m_TriedToSetGenerateAllProjects: 1
+  m_Resources: []
+  m_DefaultMarkerLibrary: {fileID: 11400000, guid: fa24aadee1250804d94ace2860926412,
+    type: 2}
