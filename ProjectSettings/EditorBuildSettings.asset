@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BodyTrackingDemo.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 8e94bf42cd4c441699813b54ad7cf95c,
+      type: 2}
+    com.unity.mars-ar-foundation-providers.xr_subsystem_settings: {fileID: 11400000,
+      guid: f3d0e259e809ef349a345a07d7296a88, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b882b3133f9a843658e74ff4f6a8f63a,
+      type: 2}
